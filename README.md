@@ -6,7 +6,7 @@ Christian Fiedler, Carsten W. Scherer, Sebastian Trimpe,
 Practical and Rigorous Uncertainty Bounds for Gaussian Process Regression, 
 AAAI21
 
-Note that there a version with corrections is available at
+Note that a version of this article with corrections is available at
 
 https://arxiv.org/abs/2105.02796
 
